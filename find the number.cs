@@ -1,4 +1,4 @@
-namespace almanyaa2026
+namespace c# game
 {
     internal class Program
     {
