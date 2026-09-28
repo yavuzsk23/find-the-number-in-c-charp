@@ -4,7 +4,7 @@ this is a simple C# game made for fun and educational purposes
 
 deutsch
 
-Dies ist ein einfaches C#-Spiel, es wurde zum Spaß und zu Bildungszwecken gemacht.
+dies ist ein einfaches C#-spiel es wurde zum spaß und zu bildungszwecken gemacht
 
 türkçe
 
