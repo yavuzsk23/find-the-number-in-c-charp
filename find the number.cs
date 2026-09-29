@@ -20,7 +20,7 @@ namespace c# game
                 }
                 else if (guess > secretNumber)
                 {
-                    Console.WriteLine("too hight");
+                    Console.WriteLine("too high");
                 }
                 else
                 {
